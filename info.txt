@@ -1,0 +1,4 @@
+pip install fastapi
+pip install uvicorn
+to start: python main.py
+to run on local server: uvicorn main:app --reload
